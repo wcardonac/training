@@ -1,0 +1,9 @@
+body{
+     
+     background-color: aliceblue; 
+}
+
+.jumbotron {
+     background-color: rgb(236, 234, 240)  !important;
+     color: rgb(64, 23, 177) ;
+}
